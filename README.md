@@ -3,7 +3,7 @@ simple blog using singleton
 
 
 For propper work nned to create: <br>
--MySQL database w/ name "users_db" <br>
+MySQL database w/ name "users_db" <br>
   1.table "users" <br>
     -"id" row <br>
     -"email" row <br>
